@@ -1,0 +1,46 @@
+
+.head{
+    height: 300px;
+    width: 300px;
+    background-color:pink;
+    padding: 10px 20px 10px ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    margin-top: 150px;
+    
+
+}
+
+.first{
+    width: 100%;
+    box-shadow: 2px;
+    padding: 5px 10px;
+    font-size: 15px;
+    margin: 5px 0px 10px 0px;
+    display: block;
+    border-radius: 15px;
+    box-sizing: border-box;
+    
+    }
+.first input{
+    border-radius: 5px;
+}
+.first input{
+    background-color: aqua;
+}
+
+.button{
+    font-size: 15px;
+    border: 5px solid gray;
+    
+}
+/* .second button{
+    background-color: chartreuse;
+} */
+button{
+    background-color: darkgoldenrod;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+
+
+}
